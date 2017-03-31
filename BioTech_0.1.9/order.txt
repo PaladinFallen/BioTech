@@ -1,0 +1,17 @@
+    order="a[buildings]-a[sand]",
+    order="a[buildings]-b[wind]",
+    order="a[buildings]-c[solar]",
+    order="a[buildings]-d[bio]",
+    order="a[buildings]-e[oth]",
+
+    order="b[bioprod]-a[fluid]",
+    order="b[bioprod]-b[plant]",
+    order="b[bioprod]-c[glass]",
+    order="b[bioprod]-d[basic]",
+
+    order="c[science]-a[parts]",
+    order="c[science]-b[circuits]",
+    order="c[science]-c[packs]",
+
+    order="d[rocket]-a[parts]",
+    
